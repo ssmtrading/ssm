@@ -11,6 +11,6 @@ This is the official website of **SSM**, a trading company focused on aluminium 
 - HTML5, CSS3 (static website)
 - Hosted on GitHub Pages
 
-🌐 **Live Site:** [https://yourusername.github.io/ssm_web/](https://yourusername.github.io/ssm_web/)
+🌐 **Live Site:** [https://ssmtrading.github.io/ssm_web/](https://ssmtrading.github.io/ssm_web/)
 
-https://github.com/infossmtrading-droid
+https://github.com/ssmtrading
